@@ -1,5 +1,3 @@
-[![MasterHead](file:///C:/Users/heysi/Downloads/untitled.svg..)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Rex</h1>
 <h3 align="center">A passionate frontend developer from The US</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")

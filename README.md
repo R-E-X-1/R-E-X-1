@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](file:///C:/Users/heysi/Downloads/untitled.svg..)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Rex</h1>
 <h3 align="center">A passionate frontend developer from The US</h3>
